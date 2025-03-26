@@ -1,3 +1,3 @@
 <?php
-echo "¡Hola Mundo desde index.php!";
+echo "¡Hola Mundo!";
 ?>
